@@ -6,7 +6,7 @@ cask "coolmymac" do
 
   url "https://github.com/ecc521/CoolMyMac/releases/download/v#{version}/CoolMyMac.zip"
   name "CoolMyMac"
-  desc "Menu bar app and CLI to monitor and control Mac fans"
+  desc "Menu bar app and CLI to monitor temperatures and control Mac fans"
   homepage "https://github.com/ecc521/CoolMyMac"
 
   # Requires macOS 15.0 or later as defined in your project
