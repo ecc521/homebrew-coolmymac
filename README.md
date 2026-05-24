@@ -1,6 +1,6 @@
 # Homebrew Tap for CoolMyMac
 
-This is the official Homebrew Tap for [CoolMyMac](https://github.com/ecc521/CoolMyMac), an advanced, native macOS utility with a beautiful UI and a powerful CLI to monitor and control your Mac's fans and thermals.
+This is the official Homebrew Tap for [CoolMyMac](https://github.com/ecc521/CoolMyMac), a native macOS utility with a UI & CLI to monitor and control your Mac's fans and thermals.
 
 ## Installation
 
