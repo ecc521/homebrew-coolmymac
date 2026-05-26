@@ -1,10 +1,8 @@
 cask "coolmymac" do
-  version "1.0.3"
-  # You must update this sha256 to match the exact hash of your CoolMyMac.zip on each release. 
-  # You can generate the hash by running `shasum -a 256 CoolMyMac.zip` in terminal.
-  sha256 "REPLACE_WITH_ZIP_SHA256"
+  version "1.0.4"
+  sha256 "b0961beb7a8645bd7f6813e4cbc8104015646a25de3d7aa07d56db772e73d604"
 
-  url "https://github.com/ecc521/CoolMyMac/releases/download/v#{version}/CoolMyMac.zip"
+  url "https://github.com/ecc521/CoolMyMac/releases/download/v#{version}/CoolMyMac.dmg"
   name "CoolMyMac"
   desc "Menu bar app and CLI to monitor temperatures and control Mac fans"
   homepage "https://github.com/ecc521/CoolMyMac"
