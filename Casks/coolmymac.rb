@@ -8,7 +8,7 @@ cask "coolmymac" do
   homepage "https://github.com/ecc521/CoolMyMac"
 
   # Requires macOS 15.0 or later as defined in your project
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   # This tells Homebrew to drag CoolMyMac.app into the /Applications folder
   app "CoolMyMac.app"
