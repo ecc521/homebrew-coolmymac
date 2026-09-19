@@ -1,6 +1,6 @@
 cask "coolmymac" do
-  version "1.3.0"
-  sha256 "6a0c358d094845bfded02ca0009c9f4ace3f54cac291a354b1a9fc058967fe37"
+  version "1.4.0"
+  sha256 "39a7bc65058d5acf6a1bd2e0a320e76e995ff5afa79509a49e54197eb4cc59d4"
 
   url "https://github.com/ecc521/CoolMyMac/releases/download/v#{version}/CoolMyMac.dmg"
   name "CoolMyMac"
